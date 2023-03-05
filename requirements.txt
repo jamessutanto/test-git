@@ -1,0 +1,11 @@
+elasticsearch == 8.3.3
+fuzzywuzzy
+levenshtein
+spacy
+scipy
+pandas
+tqdm
+joblib
+pygtrie
+numpyencoder
+git+https://tw-datascience:${ACCESS_TOKEN}@github.com/Talentwunder/ai-es-utils.git@v4.2.1
